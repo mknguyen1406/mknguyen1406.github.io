@@ -80,6 +80,10 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 2. Run `jekyll build`
 3. Start and http-server in the folder `_site`
 
+OR
+
+Run `bundle exec jekyll serve`
+
 # Contribution
 
 - Report issues
