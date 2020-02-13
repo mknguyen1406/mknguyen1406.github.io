@@ -70,8 +70,8 @@
     outline-style: none !important;
     -moz-outline-style: none !important;
 
-    padding: none;
-    margin: none;
+    //padding: none;
+    //margin: none;
   }
   .icon {
     text-align: center;
@@ -137,4 +137,19 @@
         color: $sec;
       }
   }
+}
+
+.profile-picture {
+  position: absolute;
+  top: 200px;
+  left: 50%;
+  margin-left: -55px;
+}
+
+img {
+  border: 5px solid #fff;
+  border-radius: 100%;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+  width: 100px;
+  height: 100px;
 }
