@@ -6,7 +6,7 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: Hi, I'm Minh-Kha
-user_description: I'm a student of Industrial Engineering and Management, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+user_description: I'm a final-year student of Industrial Engineering and Management at Karlsruhe Institute of Technology, always up for new challenges! Currently, I am immersed in my master thesis at ETH Zurich, where I try to identify future research fields through the application of NLP-techniques to research grant data.
 user_title: Nice to meet you!
 email: mknguyen1406@gmail.com
 # twitter_username: lorem_ipsum
